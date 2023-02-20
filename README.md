@@ -3,7 +3,7 @@
 
 ## Purpose
 
-Tasks are an apart of every day life, people use organizers daily to help them track of everything that is to be done on each specific day. Taskinator is a web application that allows a user to create a To Do list on the web and keep track of what tasks still need to be done and which taks have been completed.
+Tasks are an apart of every day life, people use organizers daily to help them track of everything that is to be done on each specific day. Taskmaster Pro is a web application that allows a user to create a To Do list on the web and keep track of what tasks still need to be done and which taks have been completed.
 
 
 ## Installation
